@@ -1,0 +1,1 @@
+gcc -o web_server.exe main.c -lws2_32
